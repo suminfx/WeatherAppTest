@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weather_icon_size">80dp</dimen>
+    <dimen name="small_weather_icon">42dp</dimen>
+    <dimen name="image_location_size">42dp</dimen>
+    <dimen name="size_progress_bar">42dp</dimen>
+</resources>

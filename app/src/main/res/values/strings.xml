@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="wind_label">Ветер</string>
+    <string name="pressure_label">Давление</string>
+    <string name="humidity_label">Влажность</string>
+    <string name="test_wind">4,8 м/с</string>
+    <string name="test_pressure">750 мм</string>
+    <string name="test_humidity">93%</string>
+    <string name="test_temp">1°</string>
+    <string name="for_today_label">На сегодня</string>
+    <string name="for_tomorrow_label">На завтра</string>
+    <string name="city_test">Москва</string>
+    <string name="weather_description_test">Пасмурно</string>
+    <string name="description_of_background">Фон для сегодняшней погоды</string>
+    <string name="description_show_today_weather">Показать погоду на сегодня</string>
+    <string name="description_show_tomorrow_weather">Показать погоду на завтра</string>
+    <string name="description_weather_icon">Иконка погоды</string>
+    <string name="button_for_today">На сегодня</string>
+    <string name="button_for_tomorrow">На завтра</string>
+    <string name="button_for_three_days">На 3 дня</string>
+    <string name="test_date">09:00</string>
+    <string name="test_temp_small">15°</string>
+    <string name="tag_today">today</string>
+    <string name="tag_tomorrow">tomorrow</string>
+    <string name="tag_three_days">three</string>
+    <string name="label_in_russia">В России</string>
+    <string name="in_world_label">В мире</string>
+    <string name="my_city">Мой город</string>
+    <string name="description_show_my_weather">Показать погоду в моем городе</string>
+    <string name="warning_no_internet_connection">Отсутствует интернет-подключение.</string>
+    <string name="warning_slow_internet_connection">Медленное интернет-соединение. Попробуйте позже...</string>
+</resources>
